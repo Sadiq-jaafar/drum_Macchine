@@ -1,7 +1,6 @@
 import "./App.css";
 import { AudioClip } from "./types";
 import Drum from "./components/Drum";
-import { useRef } from "react";
 
 const AudioClips: AudioClip[] = [
   {
